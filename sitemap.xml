@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://h-yulong.github.io/ch/article-title/</loc>
+    <loc>http://h-yulong.github.io/ch/ch/article-title/</loc>
     
     <lastmod>2021-07-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://h-yulong.github.io/ch/index/</loc>
+    <loc>http://h-yulong.github.io/ch/ch/index/</loc>
     
     <lastmod>2021-07-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://h-yulong.github.io/tags/index.html</loc>
+    <loc>http://h-yulong.github.io/ch/tags/index.html</loc>
     
     <lastmod>2021-07-20</lastmod>
     
   </url>
   
   <url>
-    <loc>http://h-yulong.github.io/categories/index.html</loc>
+    <loc>http://h-yulong.github.io/ch/categories/index.html</loc>
     
     <lastmod>2021-07-20</lastmod>
     
   </url>
   
   <url>
-    <loc>http://h-yulong.github.io/about/index.html</loc>
+    <loc>http://h-yulong.github.io/ch/about/index.html</loc>
     
     <lastmod>2021-07-20</lastmod>
     
   </url>
   
   <url>
-    <loc>http://h-yulong.github.io/ch/all/article-title/</loc>
+    <loc>http://h-yulong.github.io/ch/ch/all/article-title/</loc>
     
     <lastmod>2021-07-19</lastmod>
     
   </url>
   
   <url>
-    <loc>http://h-yulong.github.io/ch/hello-world/</loc>
+    <loc>http://h-yulong.github.io/ch/ch/hello-world/</loc>
     
     <lastmod>2021-07-19</lastmod>
     
@@ -52,7 +52,7 @@
   
 
   <url>
-    <loc>http://h-yulong.github.io/</loc>
+    <loc>http://h-yulong.github.io/ch</loc>
     <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -60,7 +60,7 @@
 
   
   <url>
-    <loc>http://h-yulong.github.io/tags/Git/</loc>
+    <loc>http://h-yulong.github.io/ch/tags/Git/</loc>
     <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -69,21 +69,21 @@
 
   
   <url>
-    <loc>http://h-yulong.github.io/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/</loc>
+    <loc>http://h-yulong.github.io/ch/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://h-yulong.github.io/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/Git/</loc>
+    <loc>http://h-yulong.github.io/ch/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/Git/</loc>
     <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://h-yulong.github.io/categories/all/</loc>
+    <loc>http://h-yulong.github.io/ch/categories/all/</loc>
     <lastmod>2021-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
