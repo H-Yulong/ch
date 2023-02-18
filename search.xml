@@ -53,4 +53,9 @@
         <category>all</category>
       </categories>
   </entry>
+  <entry>
+    <title></title>
+    <url>/ch/ch/new_test/</url>
+    <content><![CDATA[<h1 id="TEst"><a href="#TEst" class="headerlink" title="TEst!!"></a>TEst!!</h1>]]></content>
+  </entry>
 </search>

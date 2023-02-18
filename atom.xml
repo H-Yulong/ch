@@ -6,7 +6,7 @@
   <link href="http://h-yulong.github.io/ch/atom.xml" rel="self"/>
   
   <link href="http://h-yulong.github.io/ch/"/>
-  <updated>2022-12-19T16:42:20.184Z</updated>
+  <updated>2023-02-18T21:31:07.367Z</updated>
   <id>http://h-yulong.github.io/ch/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://h-yulong.github.io/ch/ch/new_test/"/>
+    <id>http://h-yulong.github.io/ch/ch/new_test/</id>
+    <published>2023-02-18T21:30:58.817Z</published>
+    <updated>2023-02-18T21:31:07.367Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="TEst"><a href="#TEst" class="headerlink" title="TEst!!"></a>TEst!!</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;TEst&quot;&gt;&lt;a href=&quot;#TEst&quot; class=&quot;headerlink&quot; title=&quot;TEst!!&quot;&gt;&lt;/a&gt;TEst!!&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>显式替换(Explicit Substitution)</title>
